@@ -2,7 +2,7 @@
 %define		_pver	4.1
 
 Summary:	Linux Terminal Server Project - 100dpi fonts for terminals
-Summary(pl.UTF-8):   Fonty 100dpi dla terminali z Linux Terminal Server Project
+Summary(pl.UTF-8):	Fonty 100dpi dla terminali z Linux Terminal Server Project
 Name:		ltsp_addtl_fonts
 Version:	4.0.1
 Release:	0.1
